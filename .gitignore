@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+output.json
+trace.json
+agent_graph.png
+venv/
