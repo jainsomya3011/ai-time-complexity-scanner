@@ -1,0 +1,51 @@
+{
+    "jainsomya3011@gmail.com": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "purchased_agents": [
+            "complexity-analysis",
+            "test-case-generation",
+            "code-refactor"
+        ]
+    },
+    "vishvapalak@gmail.com": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "purchased_agents": [
+            "code-refactor",
+            "test-case-generation",
+            "complexity-analysis"
+        ]
+    },
+    "guardrail_test@example.com": {
+        "password": "a2d679bed5c2f57e3540f88caa01d559c26a0df07df451b9d099d0a84bd5cf05",
+        "purchased_agents": [
+            "complexity-analysis"
+        ]
+    },
+    "browser_link_test@example.com": {
+        "password": "a2d679bed5c2f57e3540f88caa01d559c26a0df07df451b9d099d0a84bd5cf05",
+        "purchased_agents": [
+            "complexity-analysis"
+        ]
+    },
+    "heetnami@gmail.com": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "purchased_agents": [
+            "complexity-analysis",
+            "test-case-generation"
+        ]
+    },
+    "kavyanshroy@gmail.com": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "purchased_agents": [
+            "test-case-generation",
+            "code-refactor",
+            "complexity-analysis"
+        ]
+    },
+    "heetushika@gmail.com": {
+        "password": "6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918",
+        "purchased_agents": [
+            "code-refactor"
+        ]
+    }
+}

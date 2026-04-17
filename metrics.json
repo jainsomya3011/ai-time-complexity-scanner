@@ -1,0 +1,19 @@
+{
+    "trace_id": "4851cacd-d776-4a64-a38d-425bd9e5cb90",
+    "timestamp": "2026-03-21 06:53:56.925071",
+    "metrics": {
+        "total_latency_sec": 23.523,
+        "total_tokens": 514,
+        "accuracy": "high"
+    },
+    "per_agent": {
+        "LLM_ANALYZER": {
+            "latency": 12.596122,
+            "tokens": 347
+        },
+        "TEST_CASE_AGENT": {
+            "latency": 10.926379,
+            "tokens": 167
+        }
+    }
+}
