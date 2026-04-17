@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Code Complexity Analyzer",
+    "icon": "📐",
+    "accentColor": "#2563eb",
+    "tagline": "Turn raw code into clear Big-O and memory stories",
+    "highlights": [
+      "Asymptotic time and space analysis",
+      "Bottleneck call-outs with plain-language rationale",
+      "Practical optimization ideas you can ship"
+    ],
+    "description": "Expert agent that analyzes time and space complexity of algorithms",
+    "version": "1.0.0",
+    "url": "http://localhost:5000",
+    "price": 10,
+    "category": "Analysis",
+    "defaultInputModes": ["text"],
+    "defaultOutputModes": ["application/json"],
+    "capabilities": {
+      "streaming": false,
+      "pushNotifications": false
+    },
+    "authentication": {
+      "schemes": ["apiKey"],
+      "header": "Authorization"
+    },
+    "skills": [
+      {
+        "id": "complexity-analysis",
+        "name": "Complexity Analysis",
+        "description": "Analyzes time and space complexity with optimization suggestions",
+        "inputModes": ["text"],
+        "outputModes": ["application/json"]
+      }
+    ]
+  },
+  {
+    "name": "Test Case Generator",
+    "icon": "🧪",
+    "accentColor": "#059669",
+    "tagline": "Stress your logic before production does it for you",
+    "highlights": [
+      "Happy-path, edge, and negative scenarios",
+      "Structured cases ready for CI fixtures",
+      "Readable names and assertions you can extend"
+    ],
+    "description": "Generates comprehensive test cases for code validation",
+    "version": "1.0.0",
+    "url": "http://localhost:5000",
+    "price": 15,
+    "category": "Testing",
+    "defaultInputModes": ["text"],
+    "defaultOutputModes": ["application/json"],
+    "capabilities": {
+      "streaming": false,
+      "pushNotifications": false
+    },
+    "authentication": {
+      "schemes": ["apiKey"],
+      "header": "Authorization"
+    },
+    "skills": [
+      {
+        "id": "test-case-generation",
+        "name": "Test Case Generation",
+        "description": "Creates normal, edge, and stress test cases",
+        "inputModes": ["text"],
+        "outputModes": ["application/json"]
+      }
+    ]
+  },
+  {
+    "name": "Code Refactor Expert",
+    "icon": "🛠️",
+    "accentColor": "#7c3aed",
+    "tagline": "Shape messy code into maintainable, idiomatic structure",
+    "highlights": [
+      "Readability and naming improvements",
+      "Safer control flow without changing behavior",
+      "Performance-conscious refactors where it matters"
+    ],
+    "description": "Refactors code for better readability, performance, and best practices",
+    "version": "1.0.0",
+    "url": "http://localhost:5000",
+    "price": 20,
+    "category": "Refactoring",
+    "defaultInputModes": ["text"],
+    "defaultOutputModes": ["application/json"],
+    "capabilities": {
+      "streaming": false,
+      "pushNotifications": false
+    },
+    "authentication": {
+      "schemes": ["apiKey"],
+      "header": "Authorization"
+    },
+    "skills": [
+      {
+        "id": "code-refactor",
+        "name": "Code Refactoring",
+        "description": "Improves code structure, performance, and maintainability",
+        "inputModes": ["text"],
+        "outputModes": ["application/json"]
+      }
+    ]
+  }
+]

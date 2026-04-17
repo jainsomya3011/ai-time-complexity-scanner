@@ -1,0 +1,5 @@
+{
+  "max_code_length": 10000,
+  "allowed_roles": ["admin", "developer"],
+  "blocked_words": ["bomb","hack","ddos"]
+}
